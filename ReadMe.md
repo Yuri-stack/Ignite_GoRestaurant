@@ -9,10 +9,10 @@ Arquivos alterados
 [x] src/components/Input/index.jsx;
 [x] src/components/Input/styles.js;
 [X] src/components/Modal/index.jsx;
-[] src/components/ModalAddFood/index.jsx;
-[] src/components/ModalAddFood/styles.js;
-[] src/components/ModalEditFood/index.jsx;
-[] src/components/ModalEditFood/styles.js;
+[X] src/components/ModalAddFood/index.jsx;
+[X] src/components/ModalAddFood/styles.js;
+[x] src/components/ModalEditFood/index.jsx;
+[x] src/components/ModalEditFood/styles.js;
 [] src/pages/Dashboard/index.jsx;
 [x] src/pages/Dashboard/styles.js;
 [x] src/routes/index.jsx;
