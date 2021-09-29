@@ -16,8 +16,8 @@ interface FoodPlateProps{
 // Dica: Verifique os campos antes do Modal para saber o que o Componente espera
 interface FoodProps{
   food: FoodPlateProps
-  handleEditFood: (food: FoodPlateProps) => {}
-  handleDelete: (id: number) => {}
+  handleEditFood: (food: FoodPlateProps) => void
+  handleDelete: (id: number) => void
 }
 
 export function Food({ food, handleEditFood, handleDelete } : FoodProps){
